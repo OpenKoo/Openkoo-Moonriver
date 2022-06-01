@@ -42,3 +42,14 @@ OpenKoo is an all-in-one NFT creation platform which is open and accessible to e
 ```
 npm install
 ```
+### Moonbase Alpha TestNet Deployment address
+- CREATOR1155 :0x05d3f6a00389435928c1D48Bc9e8b737517b4178
+- CREATOR721  :0x038E039F74002aB32365ED730a8CEe139a841eCC
+- CREATOR721R :0x7dCB9Eb6B9BdDE1fF067e8016936aAD72141d223
+- NFT :0x7102f917291F1b54353E34D78FedCcFc2e02B753
+- OERC1155 :0xC4859A158ccc8d9a843Bc59D2e8dCB09607b43d2
+
+### Moonbase Alpha TestNet
+
+- RPC_URL: https://rpc.api.moonbase.moonbeam.network
+- CHAIN_ID:1287
